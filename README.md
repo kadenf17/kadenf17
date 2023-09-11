@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there, I'm Kaden Franklin! 👋
 
+### About Me:
+I'm currently a college student at Brigham Young University. I am a senior studying Statistics: Data Science.
+
+My hobbies include skiing, mountain biking, hiking, racket sports, and music.
 <!--
 **kadenf17/kadenf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
